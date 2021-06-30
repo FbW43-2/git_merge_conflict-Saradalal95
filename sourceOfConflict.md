@@ -1,10 +1,11 @@
- ![banner](img/kitten.jpg)
+ ![banner](img/berlin.jpg)
 
  # Lorem ipsum sic header
 
-* List
-* of
-* bullet
-* points
+1- List
+2- of
+3- bullet
+4- points
 
-<p> There <span style="color:red">is a bug</span> in this file</p>
+<p> There <span>is a bug</span> in this file</p>
+<p>this is a paragraph</p>
